@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace aiptu\blockreplacer\libs\_452a27b6485b092d\aiptu\libsounds;
+namespace aiptu\blockreplacer\libs\_423ffeb26968780e\aiptu\libsounds;
 
 class SoundBuilder {
 	public static function create(

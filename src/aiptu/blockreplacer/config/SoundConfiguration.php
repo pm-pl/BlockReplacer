@@ -13,9 +13,9 @@ declare(strict_types=1);
 
 namespace aiptu\blockreplacer\config;
 
-use aiptu\blockreplacer\libs\_452a27b6485b092d\aiptu\libsounds\SoundBuilder;
-use aiptu\blockreplacer\libs\_452a27b6485b092d\aiptu\libsounds\SoundInstance;
-use aiptu\blockreplacer\libs\_452a27b6485b092d\aiptu\libsounds\SoundTypes;
+use aiptu\blockreplacer\libs\_423ffeb26968780e\aiptu\libsounds\SoundBuilder;
+use aiptu\blockreplacer\libs\_423ffeb26968780e\aiptu\libsounds\SoundInstance;
+use aiptu\blockreplacer\libs\_423ffeb26968780e\aiptu\libsounds\SoundTypes;
 use pocketmine\math\Vector3;
 use pocketmine\world\World;
 use function trim;

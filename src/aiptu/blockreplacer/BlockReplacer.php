@@ -18,7 +18,7 @@ use aiptu\blockreplacer\config\Configuration;
 use aiptu\blockreplacer\data\BlockDataManager;
 use aiptu\blockreplacer\task\TaskHandler;
 use aiptu\sounds\SoundFactory;
-use aiptu\blockreplacer\libs\_452a27b6485b092d\JackMD\UpdateNotifier\UpdateNotifier;
+use aiptu\blockreplacer\libs\_423ffeb26968780e\JackMD\UpdateNotifier\UpdateNotifier;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\SingletonTrait;
 use pocketmine\world\World;
