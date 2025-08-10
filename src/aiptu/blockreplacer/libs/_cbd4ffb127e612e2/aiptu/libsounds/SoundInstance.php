@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace aiptu\blockreplacer\libs\_0e6d5c585d799747\aiptu\libsounds;
+namespace aiptu\blockreplacer\libs\_cbd4ffb127e612e2\aiptu\libsounds;
 
 use pocketmine\math\Vector3;
 use pocketmine\network\mcpe\protocol\PlaySoundPacket;
