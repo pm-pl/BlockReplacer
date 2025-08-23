@@ -13,9 +13,9 @@ declare(strict_types=1);
 
 namespace aiptu\blockreplacer\config;
 
-use aiptu\blockreplacer\libs\_269e20a0efc93828\aiptu\libsounds\SoundBuilder;
-use aiptu\blockreplacer\libs\_269e20a0efc93828\aiptu\libsounds\SoundInstance;
-use aiptu\blockreplacer\libs\_269e20a0efc93828\aiptu\libsounds\SoundTypes;
+use aiptu\blockreplacer\libs\_2fae205da4d38133\aiptu\libsounds\SoundBuilder;
+use aiptu\blockreplacer\libs\_2fae205da4d38133\aiptu\libsounds\SoundInstance;
+use aiptu\blockreplacer\libs\_2fae205da4d38133\aiptu\libsounds\SoundTypes;
 use pocketmine\math\Vector3;
 use pocketmine\world\World;
 use function trim;
@@ -28,7 +28,7 @@ class SoundConfiguration {
 	) {}
 
 	/**
-	 * @param array<int|string, mixed> $data
+	 * @param array<string, mixed> $data
 	 */
 	public static function fromData(array $data) : self {
 		$volume = ConfigurationHelper::readNumber($data, 'volume');
