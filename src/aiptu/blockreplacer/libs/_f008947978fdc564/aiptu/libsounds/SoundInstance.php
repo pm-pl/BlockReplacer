@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Copyright (c) 2024 AIPTU
+ * Copyright (c) 2024-2025 AIPTU
  *
  * For the full copyright and license information, please view
  * the LICENSE.md file that was distributed with this source code.
@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace aiptu\blockreplacer\libs\_2fae205da4d38133\aiptu\libsounds;
+namespace aiptu\blockreplacer\libs\_f008947978fdc564\aiptu\libsounds;
 
 use pocketmine\math\Vector3;
 use pocketmine\network\mcpe\protocol\PlaySoundPacket;
